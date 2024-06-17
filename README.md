@@ -8,7 +8,7 @@ Minha paixão pela Tecnologia e suas infinitas possibilidades tem sido a força 
 #### Linguagens de Programação:
 <table>
   <tr>
-    <td>
+    <td style="vertical-align: top;">
       <table>
         <tr>
           <th>Dominantes</th>
@@ -48,10 +48,9 @@ Minha paixão pela Tecnologia e suas infinitas possibilidades tem sido a força 
       </table>
     </td>
     <td>
-      <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoraguiardf&theme=vue&langs_count=3" />
-    </td>
-    <td>
-      <img alt="Most Commit Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vitoraguiardf&theme=vue" />
+      <img alt="Most Commit Languages" style="width: 75%; height: auto; max-width: 100%;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vitoraguiardf&theme=vue" />
+      <br>
+      <img alt="Top Langs" style="width: 75%; height: auto; max-width: 100%;"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoraguiardf&theme=vue&langs_count=3" />
     </td>
   </tr>
 </table>
@@ -70,10 +69,10 @@ Minha paixão pela Tecnologia e suas infinitas possibilidades tem sido a força 
 
 #### Frameworks:
 <p align="left">
-	<a href="https://spring.io/"><img alt="Spring" src="https://img.shields.io/badge/Spring-3.3-green?style=flat-square&logo=spring&labelColor=%23BCE4C3" /></a>
-	<a href="https://laravel.com/"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-10-red?style=flat-square&logo=laravel&labelColor=%23BCE4C3" /></a>
-	<a href="https://getbootstrap.com/"><img alt="Bootstrap" src="https://img.shields.io/badge/Boostrap-5.3-blue?style=flat-square&logo=bootstrap&labelColor=%23BCE4C3&color=%236f42c1"></a>
-	<a href="https://vuejs.org/"><img alt="Vue" src="https://img.shields.io/badge/Vue-3-green?style=flat-square&logo=vue.js&labelColor=%23BCE4C3" /></a>
+	<a href="https://spring.io/" target="_blank"><img alt="Spring" src="https://img.shields.io/badge/Spring-3.3-green?style=flat-square&logo=spring&labelColor=%23BCE4C3" /></a>
+	<a href="https://laravel.com/" target="_blank"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-10-red?style=flat-square&logo=laravel&labelColor=%23BCE4C3" /></a>
+	<a href="https://getbootstrap.com/" target="_blank"><img alt="Bootstrap" src="https://img.shields.io/badge/Boostrap-5.3-blue?style=flat-square&logo=bootstrap&labelColor=%23BCE4C3&color=%236f42c1"></a>
+	<a href="https://vuejs.org/" target="_blank"><img alt="Vue" src="https://img.shields.io/badge/Vue-3-green?style=flat-square&logo=vue.js&labelColor=%23BCE4C3" /></a>
 </p>
 
 #### Arquiteturas:
