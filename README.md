@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-Minha paixão pela Tecnologia e suas infinitas possibilidades tem sido a força motriz da minha carreira de 10 anos. Comecei na área de suporte técnico e manutenção, expandindo meu leque de habilidades para incluir desenvolvimento, automação e integração de aplicações voltadas para operação e gestão corporativa.
+Comecei na área de suporte técnico e manutenção, expandindo meu leque de habilidades para incluir desenvolvimento, automação e integração de aplicações voltadas para operação e gestão corporativa. Minha paixão pela Tecnologia e suas infinitas possibilidades tem sido a força motriz da minha carreira de 10 anos.
 		
 ## Competências Técnicas:
 #### Linguagens de Programação:
