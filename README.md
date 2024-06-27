@@ -1,93 +1,46 @@
-# Olá, sou o Vitor 😄
+# Seja bem vindo! 😄
 
-## Sobre mim
+### Sobre mim
 
 Comecei na área de suporte técnico e manutenção, expandindo meu leque de habilidades para incluir desenvolvimento, automação e integração de aplicações voltadas para operação e gestão corporativa. Minha paixão pela Tecnologia e suas infinitas possibilidades tem sido a força motriz da minha carreira de 10 anos.
 		
-## Competências Técnicas:
-#### Linguagens de Programação:
-<table>
-  <tr>
-    <td style="vertical-align: top;">
-      <table>
-        <tr>
-          <th>Dominantes</th>
-          <th>Banco de Dados</th>
-          <th>Web</th>
-        </tr>
-        <tr>
-          <td>Java 8, 11 e 17</td>
-          <td>SQL</td>
-          <td>HTML5</td>
-        </tr>
-        <tr>
-          <td>Kotlin</td>
-          <td>MySQL</td>
-          <td>CSS3</td>
-        </tr>
-        <tr>
-          <td>Golang</td>
-          <td>SQLite</td>
-          <td>XML</td>
-        </tr>
-        <tr>
-          <td>JavaScript</td>
-          <td>Redis</td>
-          <td>JSON</td>
-        </tr>
-        <tr>
-          <td>PHP</td>
-          <td>phpMyAdmin</td>
-          <td></td>
-        </tr>
-        <tr>
-          <td>VBA</td>
-          <td></td>
-          <td></td>
-        </tr>
-      </table>
-    </td>
-    <td>
-      <img alt="Most Commit Languages" style="width: 75%; height: auto; max-width: 100%;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vitoraguiardf&theme=vue" />
-      <br>
-      <img alt="Top Langs" style="width: 75%; height: auto; max-width: 100%;"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoraguiardf&theme=vue&langs_count=3" />
-    </td>
-  </tr>
-</table>
+|![Productive Time][productive_time_card] | ![Top Commits][top_commits_card] | ![Top Langs][top_langs_card] | 
+| --- | --- | --- |
 
-#### Ferramentas e Softwares:
-<p align="left">
-	<img alt="Git" src="https://img.shields.io/badge/Git-blue?style=flat-square&logo=git&labelColor=%23BCE4C3" />
-	<img alt="Github" src="https://img.shields.io/badge/Github-blue?style=flat-square&logo=github&labelColor=%23BCE4C3&logoColor=black" />
-	<img alt="WSL" src="https://img.shields.io/badge/WSL-blue?style=flat-square&logo=linux&labelColor=%23BCE4C3&logoColor=black">
-	<img alt="Docker" src="https://img.shields.io/badge/Docker-blue?style=flat-square&logo=docker&labelColor=%23BCE4C3">
-	<img alt="Gradle" src="https://img.shields.io/badge/Gradle-blue?style=flat-square&logo=gradle&labelColor=%23BCE4C3&logoColor=black" />
-	<img alt="Composer" src="https://img.shields.io/badge/Composer-blue?style=flat-square&logo=composer&labelColor=%23BCE4C3&logoColor=black" />
-	<img alt="NPM" src="https://img.shields.io/badge/npm-blue?style=flat-square&logo=npm&labelColor=%23BCE4C3" />
-	<img alt="Apache Servers" src="https://img.shields.io/badge/Apache-blue?style=flat-square&logo=apache&labelColor=%23BCE4C3&logoColor=red" />
-</p>
+#### Projetos, Ferramentas e Softwares:
+![Git][git_shield]
+![GitHub][github_shield]
+![WSL][wsl_shield]
+![Docker][docker_shield]
+![NPM][npm_shield]
+[![Vue][vue_shield]][vue_page]
+[![Bootstrap][bootstrap_shield]][bootstrap_page]
 
-#### Frameworks:
-<p align="left">
-	<a href="https://spring.io/" target="_blank"><img alt="Spring" src="https://img.shields.io/badge/Spring-3.3-green?style=flat-square&logo=spring&labelColor=%23BCE4C3" /></a>
-	<a href="https://laravel.com/" target="_blank"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-10-red?style=flat-square&logo=laravel&labelColor=%23BCE4C3" /></a>
-	<a href="https://getbootstrap.com/" target="_blank"><img alt="Bootstrap" src="https://img.shields.io/badge/Boostrap-5.3-blue?style=flat-square&logo=bootstrap&labelColor=%23BCE4C3&color=%236f42c1"></a>
-	<a href="https://vuejs.org/" target="_blank"><img alt="Vue" src="https://img.shields.io/badge/Vue-3-green?style=flat-square&logo=vue.js&labelColor=%23BCE4C3" /></a>
-</p>
+Arquitetura Hexagonal, MVC, REST, Json Web Token (JWT), OAUTH2, OWASP
 
-#### Arquiteturas:
-- Hexagonal, MVC, REST
+#### Treinamentos Atuais
+[![cod3rgolang_repo][cod3rgolang_card]][cod3rgolang_repo]
+[![bashscript_repo][bashscript_card]][bashscript_repo]
 
-#### Projetos e Padrões de Segurança:
-- JQuery.js, Json Web Token (JWT), OAUTH2, OWASP, Selenium
+[bashscript_repo]: https://github.com/vitoraguiardf/bash-script-tutorial
+[bashscript_card]: https://github-readme-stats.vercel.app/api/pin/?username=vitoraguiardf&repo=bash-script-tutorial&theme=transparent
 
-#### Sistemas Operacionais:
-- Microsoft Windows 10
-- Linux: Ubuntu, Debian
+[cod3rgolang_repo]: https://github.com/vitoraguiardf/cod3r-golang
+[cod3rgolang_card]: https://github-readme-stats.vercel.app/api/pin/?username=vitoraguiardf&repo=cod3r-golang&theme=transparent
 
-## Meu GitHub
+[bootstrap_shield]: https://img.shields.io/badge/Boostrap-5.3-blue?style=flat-square&logo=bootstrap&labelColor=%23BCE4C3&color=%236f42c1
+[bootstrap_page]: https://getbootstrap.com/
 
-![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vitoraguiardf&theme=vue)
+[vue_shield]: https://img.shields.io/badge/Vue-3-green?style=flat-square&logo=vue.js&labelColor=%23BCE4C3
+[vue_page]: https://vuejs.org/
 
-| ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vitoraguiardf&theme=vue) | ![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vitoraguiardf&theme=vue&utcOffset=-3) |
-| :-: | :-: |
+[git_shield]: https://img.shields.io/badge/Git-blue?style=flat-square&logo=git&labelColor=%23BCE4C3
+[github_shield]: https://img.shields.io/badge/Github-blue?style=flat-square&logo=github&labelColor=%23BCE4C3&logoColor=black
+[wsl_shield]: https://img.shields.io/badge/WSL-blue?style=flat-square&logo=linux&labelColor=%23BCE4C3&logoColor=black
+[docker_shield]: https://img.shields.io/badge/Docker-blue?style=flat-square&logo=docker&labelColor=%23BCE4C3
+[composer_shield]: https://img.shields.io/badge/Composer-blue?style=flat-square&logo=composer&labelColor=%23BCE4C3&logoColor=black
+[npm_shield]: https://img.shields.io/badge/npm-blue?style=flat-square&logo=npm&labelColor=%23BCE4C3
+
+[top_langs_card]: https://github-readme-stats.vercel.app/api?username=vitoraguiardf&show_icons=true&locale=pt-br&hide=issues,contribs&hide_title=true&theme=transparent&hide_border=true
+[top_commits_card]: https://github-readme-stats.vercel.app/api/top-langs/?username=vitoraguiardf&langs_count=6&hide_title=true&hide=php,blade&layout=compact&hide_border=true&theme=transparent
+[productive_time_card]: http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vitoraguiardf&theme=transparent&utcOffset=-3&hide_border=true
