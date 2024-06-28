@@ -19,8 +19,12 @@ Comecei na área de suporte técnico e manutenção, expandindo meu leque de hab
 Arquitetura Hexagonal, MVC, REST, Json Web Token (JWT), OAUTH2, OWASP
 
 #### Treinamentos Atuais
-[![cod3rgolang_repo][cod3rgolang_card]][cod3rgolang_repo]
-[![bashscript_repo][bashscript_card]][bashscript_repo]
+[![cod3rgolang_repo][cod3rgolang_card]][cod3rgolang_repo] <br>
+[![bobinabanking_repo][bobinabanking_card]][bobinabanking_repo] <br>
+[![bashscript_repo][bashscript_card]][bashscript_repo] <br>
+
+[bobinabanking_repo]: https://github.com/vitoraguiardf/bobina-banking
+[bobinabanking_card]: https://github-readme-stats.vercel.app/api/pin/?username=vitoraguiardf&repo=bobina-banking&theme=transparent
 
 [bashscript_repo]: https://github.com/vitoraguiardf/bash-script-tutorial
 [bashscript_card]: https://github-readme-stats.vercel.app/api/pin/?username=vitoraguiardf&repo=bash-script-tutorial&theme=transparent
