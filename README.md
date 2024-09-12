@@ -44,6 +44,6 @@ Arquitetura Hexagonal, MVC, REST, Json Web Token (JWT), OAUTH2, OWASP
 [npm_shield]: https://img.shields.io/badge/npm-blue?style=flat-square&logo=npm&labelColor=%23BCE4C3
 
 [top_langs_card]: https://github-readme-stats.vercel.app/api?username=vitoraguiardf&show_icons=true&locale=pt-br&hide=issues,contribs&hide_title=true&theme=transparent&hide_border=true
-[top_commits_card]: https://github-readme-stats.vercel.app/api/top-langs/?username=vitoraguiardf&langs_count=6&hide_title=true&hide=php,blade&layout=compact&hide_border=true&theme=transparent
+[top_commits_card]: https://github-readme-stats.vercel.app/api/top-langs/?username=vitoraguiardf&langs_count=6&hide_title=true&hide=blade&layout=compact&hide_border=true&theme=transparent
 [productive_time_card]: http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vitoraguiardf&theme=transparent&utcOffset=-3&hide_border=true
 [offensive_card]: https://github-readme-streak-stats.herokuapp.com/?user=vitoraguiardf&theme=transparent&hide_border=true&locale=pt-br
