@@ -15,6 +15,8 @@ Comecei na área de suporte técnico e manutenção, expandindo meu leque de hab
 ![NPM][npm_shield]
 [![Vue][vue_shield]][vue_page]
 [![Bootstrap][bootstrap_shield]][bootstrap_page]
+[![Tailwind][tailwind_shield]][tailwind_page]
+[![PrimeVue][primevue_shield]][primevue_page]
 
 Arquitetura Hexagonal, MVC, REST, Json Web Token (JWT), OAUTH2, OWASP
 
@@ -32,6 +34,12 @@ Arquitetura Hexagonal, MVC, REST, Json Web Token (JWT), OAUTH2, OWASP
 
 [bootstrap_shield]: https://img.shields.io/badge/Boostrap-5.3-blue?style=flat-square&logo=bootstrap&labelColor=%23BCE4C3&color=%236f42c1
 [bootstrap_page]: https://getbootstrap.com/
+
+[primevue_shield]: https://img.shields.io/badge/primevue-green?&style=flat-square&logo=primefaces&labelColor=%23BCE4C3
+[primevue_page]: https://primevue.org/
+
+[tailwind_shield]: https://img.shields.io/badge/tailwindcss-blue?&style=flat-square&logo=tailwindcss&labelColor=%23BCE4C3
+[tailwind_page]: https://tailwindcss.com/
 
 [vue_shield]: https://img.shields.io/badge/Vue-3-green?style=flat-square&logo=vue.js&labelColor=%23BCE4C3
 [vue_page]: https://vuejs.org/
